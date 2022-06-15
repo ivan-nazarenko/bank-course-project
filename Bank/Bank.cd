@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bank.BankEmployee">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAECAAQAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAg=</HashCode>
+      <FileName>BankEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank.Cashier">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cashier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank.Group">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAEBICAAEAQAAEQAEAEAAAAAQQAQAAA=</HashCode>
+      <FileName>Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank.HeadOfSector">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>HeadOfSector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank.Sector">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEACBAAEAAAAAAAAAAAAAAQAABAAAEAAAAIAAkQAAAA=</HashCode>
+      <FileName>Sector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank.SpecialistOperational">
+    <Position X="7.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>SpecialistOperational.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Bank.EmployeeKind">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmployeeKind.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
